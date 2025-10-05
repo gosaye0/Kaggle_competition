@@ -1,0 +1,54 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+*.manifest
+*.spec
+
+# Virtual environment
+venv/
+env/
+.venv/
+.conda/
+.ENV/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# VSCode
+.vscode/
+
+# Pytest
+.pytest_cache/
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+
+# Logs
+*.log
+
+# Data
+data/
+outputs/
+
+# Models
+*.pkl
+*.joblib
+*.h5
+*.sav
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Others
+*.tmp
+*.swp
