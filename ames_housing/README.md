@@ -65,7 +65,7 @@ project_root/
 
 ## Installation
 Clone the repository:
-`git clone https://github.com/<your-username>/ames-housing.git`
+`git clone https://github.com/gosaye0/kaggle_competition/ames-housing.git`
 `cd ames-housing`
 
 Install dependencies (editable mode):
